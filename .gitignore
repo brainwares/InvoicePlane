@@ -15,6 +15,7 @@ pint_output.log
 # Other files
 .htaccess
 .idea
+.vscode
 .todo
 .sass-cache
 adminer.php
@@ -32,3 +33,8 @@ yarn-error.log
 /stan.txt
 /todo.txt
 /yarnpack.txt
+
+# OS generated files
+.DS_Store
+**/ .DS_Store
+
